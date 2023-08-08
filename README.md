@@ -6,5 +6,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukankoc&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kocdogukan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://dogukankoc.medium.com/) 
+### 🌐 Socials and Interview Preparation
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kocdogukan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://dogukankoc.medium.com/)  
+ 
+ 
+ 
+[LeetCode](https://leetcode.com/dogukankoc/)
+
